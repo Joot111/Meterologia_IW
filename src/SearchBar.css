@@ -1,0 +1,26 @@
+.BarraPesquisa{
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: auto;
+}
+
+.BarraPesquisa button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 28px;
+    background: #ddd;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+}
+
+.BarraPesquisa input[type=text] {
+    padding: 6px;
+    margin-top: 28px;
+    font-size: 24px;
+    border: none;
+}

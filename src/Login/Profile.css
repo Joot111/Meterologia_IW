@@ -1,0 +1,8 @@
+.profile-content{
+    width: 400px;
+    background-color: white;
+    font: 21px Solis, Arial, Helvetica, sans-serif;
+    color: #000000;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.623);
+  }
